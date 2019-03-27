@@ -1072,7 +1072,7 @@ button:focus {
 
 .mu-sponsors-content {
 	display: inline;
-	float: left;
+	float: center;
 	margin-top: 50px;
 	width: 100%;
 }
@@ -1080,7 +1080,7 @@ button:focus {
 .mu-sponsors-single {
 	background: #eee;
 	display: inline;
-	float: left;
+	float: center;
 	margin-top: 10px;
 	margin-bottom: 15px;
 	width: 100%;
