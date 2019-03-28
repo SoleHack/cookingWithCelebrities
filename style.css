@@ -407,7 +407,7 @@ button:focus {
 .mu-about-area {
 	display: inline;
 	float: left;
-	padding: 100px 0;
+	padding: 50px 0;
 	width: 100%;
 }
 
@@ -574,7 +574,7 @@ button:focus {
 .mu-schedule-area {
 	display: inline;
 	float: left;
-	padding: 100px 0;
+	padding: 50px 0;
 	width: 100%;
 }
 
@@ -726,7 +726,7 @@ button:focus {
 .mu-speakers-area {
 	display: inline;
 	float: left;
-	padding: 100px 0;
+	padding: 50px 0;
 	width: 100%;
 }
 
@@ -855,7 +855,7 @@ button:focus {
 .mu-pricing-area {
 	display: inline;
 	float: left;
-	padding: 100px 0;
+	padding: 50px 0;
 	width: 100%;
 }
 
@@ -1059,14 +1059,14 @@ button:focus {
 #mu-sponsors {
 	background-color: #fff;
 	display: inline;
-	float: left;
+	float: center;
 	width: 100%;
 }
 
 .mu-sponsors-area {
 	display: inline;
 	float: left;
-	padding: 100px 0;
+	padding: 50px 0;
 	width: 100%;
 }
 
@@ -1102,7 +1102,7 @@ button:focus {
 .mu-faq-area {
 	display: inline;
 	float: left;
-	padding: 150px 0;
+	padding: 50px 0;
 	width: 100%;
 }
 
@@ -1166,7 +1166,7 @@ button:focus {
 .mu-contact-area {
 	display: inline;
 	float: left;
-	padding: 100px 0 50px;
+	padding: 50px 0 50px;
 	width: 100%;
 }
 
