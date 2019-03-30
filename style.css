@@ -1881,3 +1881,18 @@ button:focus {
 	
 }
 
+.no-padding{
+  padding: 0px;
+}
+
+.rotate-img:hover {
+  -webkit-transform : rotate(2deg) scale(1.08); /* Chrome, Opera 15+, Safari 3.1+ */ /* IE 9 */
+  transform         : rotate(2deg) scale(1.08); /* Firefox 16+, IE 10+, Opera */
+  position: relative;
+  
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+  background-color: #000;
+}
+
