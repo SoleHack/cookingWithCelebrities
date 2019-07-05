@@ -99,3 +99,7 @@ Author URI : http://www.markups.io/
   height: 100%;
 }
 
+carousel-inner {
+  margin-left: 15%;
+}
+
